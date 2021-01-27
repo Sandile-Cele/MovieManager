@@ -10,4 +10,4 @@ Don't worry password is hashed before it is stored.
 Movies will be recommended based on user's favorite list. This will work by looking for common attributes in the list then give a recommendation. For example: if users have a lot of action movies then the recommendation list should recommend action movie.
 
 # Current problem
-Omdbapi doesnt allow me to return a list of movies so in movie>list are movies I put in. 
+Omdbapi doesn't allow me to return a list of movies so in movie>list are movies I personally put in. 
