@@ -1,4 +1,6 @@
-﻿create table Users(
+﻿create database MovieManager
+
+create table Users(
 	User_Id int identity(1,1) not null primary key,
 	Email varchar(255) not null,
 	Firstname varchar(225) not null,

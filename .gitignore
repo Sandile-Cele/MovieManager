@@ -2,6 +2,7 @@
 # compiled source #
 ###################
 *.com
+*.gitignore
 *.class
 *.dll
 *.exe
